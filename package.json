@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.8.6",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@fontsource/ibm-plex-sans": "^4.5.7",
+    "chart.js": "^3.7.1",
+    "framer-motion": "^6",
     "next": "12.1.1",
+    "preact": "^10.6.6",
     "react": "17.0.2",
+    "react-chartjs-2": "^4.0.1",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
